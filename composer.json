@@ -1,15 +1,19 @@
 {
-    "name": "/",
-    "description": "",
+    "name": "citypay/paylink-sdk-php",
+    "description": "PHP SDK for use with CityPay Paylink to process and authorise transactions using the CityPay Paylink API\n",
     "keywords": [
         "swagger",
         "php",
         "sdk",
         "api"
     ],
-    "homepage": "http://swagger.io",
+    "homepage": "https://citypay.com",
     "license": "proprietary",
     "authors": [
+        {
+            "name": "CityPay Limited",
+            "homepage": "https://citypay.com"
+        },
         {
             "name": "Swagger and contributors",
             "homepage": "https://github.com/swagger-api/swagger-codegen"
